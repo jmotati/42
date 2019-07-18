@@ -1,0 +1,5 @@
+  Issued                Expires               Principal
+Jul  9 13:30:46 2019  Jul  9 23:30:46 2019  krbtgt/42.US.ORG@42.US.ORG
+Jul  9 13:30:47 2019  Jul  9 23:30:46 2019  ldap/ldap-master.42.us.org@42.US.ORG
+Jul  9 13:49:10 2019  Jul  9 23:30:46 2019  host/vgs-fn1.42.us.org@42.US.ORG
+Jul  9 16:37:07 2019  Jul 10 02:37:07 2019  krbtgt/42.US.ORG@42.US.ORG
